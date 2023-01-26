@@ -8,7 +8,7 @@ import 'package:mealapp/category.dart';
 List<Category> list_category=
 [
 
-Category(id: 'c1', title: 'Aleppo', color: Colors.red),
+Category(id: 'c1', title: 'Aleppo', color: Color.fromARGB(255, 149, 116, 18)),
 
 Category(id: 'c2', title: 'Idleb', color: Colors.green),
 
